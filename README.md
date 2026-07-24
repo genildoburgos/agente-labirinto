@@ -232,4 +232,4 @@ devem ser capazes de explicar e modificar todas as partes do projeto.
 
 ## Vídeo de apresentação
 
-**Link do vídeo:** https://www.youtube.com/
+**Link do vídeo:** https://youtu.be/u3iKTZsSSFk
