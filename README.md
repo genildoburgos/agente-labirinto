@@ -219,5 +219,17 @@ devem ser capazes de explicar e modificar todas as partes do projeto.
 
 ## Integrantes
 
-- Nome do integrante 1
-- Nome do integrante 2
+- Douglas Filipe Severo Batista
+- Genildo Burgos Barros
+
+---
+
+## Repositório
+
+**GitHub:** https://github.com/genildoburgos/agente-labirinto
+
+---
+
+## Vídeo de apresentação
+
+**Link do vídeo:** https://www.youtube.com/
